@@ -1,0 +1,17 @@
+Q3: Difference between Data and Information (10 marks)
+
+Data:
+- Raw and unprocessed facts.
+- No clear meaning by itself.
+- Used as input.
+- Example: 85, 90, 78
+
+Information:
+- Processed and organized data.
+- Has context and meaning.
+- Useful for decision making.
+- Example: Average marks = 84.3
+
+Key difference:
+Data = raw facts
+Information = meaningful output from data
